@@ -1,5 +1,5 @@
-cd Model
+cd src
 
-javac -classpath "./libs/jsoup-1.16.1.jar;./" *.java
+javac *.java
 
-java -classpath "./libs/jsoup-1.16.1.jar;./" Main.java
+java Main.java
