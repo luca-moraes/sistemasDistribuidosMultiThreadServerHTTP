@@ -1,0 +1,72 @@
+body{
+    background-image: url("fundo2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.estilo1 {
+    font-family: "Comic Sans MS";
+    color: blueviolet;
+    font-size: 40px;
+    border: 2px;
+    border-color: white;
+    background-color: lightblue;
+    width: 200px;
+    text-align: center;
+}
+.estilo2{
+    font-family: "Comic Sans MS";
+    text:white;
+    font-size:25px;
+    text-align: center;
+    border:2px;
+    border-color: white;
+    background-color: orange;
+    width:350px;
+
+
+}
+.estilo3{
+    font-family: "Comic Sans MS";
+    text:white;
+    font-size:20px;
+    text-align: center;
+    border:2px;
+    border-color: white;
+    background-color: greenyellow;
+    width:200px;
+
+
+}
+.estilo4{
+    font-size:60px;
+    font-family: "Comic Sans MS";
+    color:yellow;
+}
+.estilo5{
+    border: 2px solid blueviolet;
+    width: 450px;
+    height: 700px;
+}
+.estilo6{
+    font-family: "Comic Sans MS";
+    text:white;
+    font-size:25px;
+    text-align: center;
+    border:2px;
+    border-color: white;
+    background-color: dodgerblue;
+    width:250px;
+
+}
+.retangulo {
+    font-family: "Comic Sans MS";
+    color: white;
+    font-size: 25px;
+    background-color: orange;
+    border: 2px solid white;
+    width: 250px;
+    padding: 10px; /* Espaçamento interno do botão */
+    text-align: center;
+    cursor: pointer;
+}

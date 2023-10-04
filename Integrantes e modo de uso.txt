@@ -1,0 +1,12 @@
+Vinicius Moura Rodrigues - RA: 22.120.057-9
+Lucas Moraes : 22.220.004-0
+
+Modo de uso:
+
+Linux - Execute o script runLinux.sh
+
+Windows - Execute o script runwin.bat
+
+Resultado:
+
+Todos os arquivos da url utilizada no Main.java serão baixados de forma paralela através de Threads e armazenados na pasta "files" dentro da pasta "Model"
